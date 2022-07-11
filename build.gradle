@@ -7,7 +7,7 @@ apply plugin: 'maven-publish'
 
 repositories {
     mavenLocal()
-    //mavenCentral()
+    mavenCentral()
 }
 
 dependencies {
